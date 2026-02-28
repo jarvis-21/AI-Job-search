@@ -1,0 +1,5 @@
+{
+  "name": "DE Job Scout",
+  "description": "Real-time aggregator for Data Engineer roles with 2-3 years experience, powered by Gemini Search Grounding.",
+  "requestFramePermissions": []
+}
